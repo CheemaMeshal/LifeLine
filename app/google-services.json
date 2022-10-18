@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "281031255613",
+    "project_id": "firebautha",
+    "storage_bucket": "firebautha.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:281031255613:android:8f97b8d67bbe03e83eac54",
+        "android_client_info": {
+          "package_name": "com.example.firebautha"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "281031255613-59q5o57dgftq7tnadbk2pom0268us4bp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSzvG1JZPUcAJINmduyjUNsBH9nDQi274"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "281031255613-59q5o57dgftq7tnadbk2pom0268us4bp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
